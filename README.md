@@ -2,6 +2,24 @@
 
 ESLint is a popular tool that helps maintain consistent code quality across a project. The template you provided comes with a pre-configured ESLint setup that has support for TypeScript, the AirBnB preset, Prettier, and JSDoc. Let's take a closer look at each of these components and the configuration for the template.
 
+## Usage
+
+To use the ESLint configuration, you must first install the required dependencies:
+
+```bash
+yarn add -D @dworac/eslint-config-typescript
+```
+
+Then, add the following to your `.eslintrc.js` file:
+
+```json
+{
+  extends: [
+    '@dworac/eslint-config-typescript',
+  ],
+}
+```
+
 ### TypeScript Support
 The @typescript-eslint package provides linting rules specifically tailored for TypeScript. This is important because regular ESLint does not understand TypeScript syntax. The @typescript-eslint/parser package allows ESLint to parse TypeScript code, and the @typescript-eslint/eslint-plugin package provides TypeScript-specific linting rules.
 
