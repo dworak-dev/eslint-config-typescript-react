@@ -12,7 +12,7 @@ yarn add -D @dworac/eslint-config-typescript
 
 Then, add the following to your `.eslintrc.js` file:
 
-```json
+```javascript
 {
   extends: [
     '@dworac/eslint-config-typescript',
