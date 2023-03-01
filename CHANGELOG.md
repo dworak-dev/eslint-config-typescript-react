@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/dworac/eslint-config-typescript/compare/v1.0.3...v1.0.4) (2023-03-01)
+
+
+### Bug Fixes
+
+* delete unused file ([9f224d7](https://github.com/dworac/eslint-config-typescript/commit/9f224d7622b18a2fb8e3a64524b81bcfe020580e))
+
 ## [1.0.3](https://github.com/dworac/eslint-config-typescript/compare/v1.0.2...v1.0.3) (2023-03-01)
 
 
