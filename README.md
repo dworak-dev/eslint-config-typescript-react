@@ -1,4 +1,4 @@
-# dworac ESLint Typescript Configuration
+# @dworac/eslint-config-typescript
 
 ESLint is a popular tool that helps maintain consistent code quality across a project. The template you provided comes with a pre-configured ESLint setup that has support for TypeScript, the AirBnB preset, Prettier, and JSDoc. Let's take a closer look at each of these components and the configuration for the template.
 
@@ -78,3 +78,9 @@ settings: {
     },
 },
 ```
+
+## Contributing
+If you have any suggestions or improvements, please feel free to create a pull request or submit an issue.
+
+## License
+This project is licensed under the MIT license. Please see the LICENSE file for more information.
