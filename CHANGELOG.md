@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dworac/eslint-config-typescript/compare/v1.0.5...v1.1.0) (2023-03-01)
+
+
+### Features
+
+* license and readme ([e0a0f6e](https://github.com/dworac/eslint-config-typescript/commit/e0a0f6e381b3cfc48b181c8f0e9e904b159b3daa))
+
 ## [1.0.5](https://github.com/dworac/eslint-config-typescript/compare/v1.0.4...v1.0.5) (2023-03-01)
 
 
