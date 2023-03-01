@@ -1,6 +1,6 @@
 {
   "name": "@dworac/eslint-config-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dworac's eslint typescript configuration with airbnb, prettier and jsdoc",
   "main": "index.js",
   "scripts": {
