@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/dworac/eslint-config-typescript/compare/v1.0.2...v1.0.3) (2023-03-01)
+
+
+### Bug Fixes
+
+* release-please action ([7de2aa2](https://github.com/dworac/eslint-config-typescript/commit/7de2aa251f720a4baea1c9a581e58e8f10b70192))
+
 ## [1.0.2](https://github.com/dworac/eslint-config-typescript/compare/v1.0.1...v1.0.2) (2023-03-01)
 
 
