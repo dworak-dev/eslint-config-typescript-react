@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/dworac/eslint-config-typescript/compare/v1.1.0...v1.2.0) (2023-03-03)
+
+
+### Features
+
+* added peer dependencies for typescript ([cab4331](https://github.com/dworac/eslint-config-typescript/commit/cab4331020bb8efc81e910b6424d0a88118138ed))
+
 ## [1.1.0](https://github.com/dworac/eslint-config-typescript/compare/v1.0.5...v1.1.0) (2023-03-01)
 
 
