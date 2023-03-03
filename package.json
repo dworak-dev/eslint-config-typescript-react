@@ -1,5 +1,7 @@
 {
   "name": "@dworac/eslint-config-typescript",
+  "author": "dworac <mail@dworac.com>",
+  "license": "MIT",
   "version": "1.1.0",
   "description": "dworac's eslint typescript configuration with airbnb, prettier and jsdoc",
   "main": "index.js",
@@ -19,6 +21,13 @@
     "jsdoc",
     "airbnb"
   ],
+  "bugs": {
+    "url": "https://github.com/dworac/eslint-config-typescript/issues"
+  },
+  "homepage": "https://github.com/dworac/eslint-config-typescript#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.48.0",
     "@typescript-eslint/parser": "^5.48.0",
@@ -29,16 +38,9 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsdoc": "^40.0.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.1",
+    "prettier": "^2.8.1"
+  },
+  "peerDependencies": {
     "typescript": "^4.9.5"
-  },
-  "author": "dworac <mail@dworac.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dworac/eslint-config-typescript/issues"
-  },
-  "homepage": "https://github.com/dworac/eslint-config-typescript#readme",
-  "publishConfig": {
-    "access": "public"
   }
 }
