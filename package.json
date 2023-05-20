@@ -1,8 +1,8 @@
 {
-  "name": "@dworac/eslint-config-typescript",
+  "name": "@dworac/eslint-config-typescript-react",
   "author": "dworac <mail@dworac.com>",
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "dworac's eslint typescript configuration with airbnb, prettier and jsdoc",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dworac/eslint-config-typescript.git"
+    "url": "git+https://github.com/dworac/eslint-config-typescript-react.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
     "airbnb"
   ],
   "bugs": {
-    "url": "https://github.com/dworac/eslint-config-typescript/issues"
+    "url": "https://github.com/dworac/eslint-config-typescript-react/issues"
   },
-  "homepage": "https://github.com/dworac/eslint-config-typescript#readme",
+  "homepage": "https://github.com/dworac/eslint-config-typescript-react#readme",
   "publishConfig": {
     "access": "public"
   },
@@ -32,12 +32,15 @@
     "@typescript-eslint/eslint-plugin": "^5.48.0",
     "@typescript-eslint/parser": "^5.48.0",
     "eslint": "^8.31.0",
-    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsdoc": "^40.0.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.1",
     "prettier": "^2.8.1"
   },
   "peerDependencies": {
