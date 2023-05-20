@@ -10,15 +10,18 @@ module.exports = {
         'eslint:recommended',
         'plugin:@typescript-eslint/recommended',
         // AirBnB style guide
-        'airbnb-base',
-        'airbnb-typescript/base',
+        'airbnb',
+        'airbnb-typescript',
         // Prettier
         'plugin:prettier/recommended',
         // JSDoc
         'plugin:jsdoc/recommended',
+        // React
+        "plugin:react/recommended",
+        'plugin:react-hooks/recommended',
     ],
     parser: '@typescript-eslint/parser',
-    plugins: ['@typescript-eslint', 'jsdoc'],
+    plugins: ['@typescript-eslint', 'jsdoc', 'react-refresh'],
     root: true,
     parserOptions: {
         project: './tsconfig.json',
@@ -26,6 +29,8 @@ module.exports = {
     rules: {
         'prettier/prettier': ['error', { endOfLine: 'auto' }],
         'jsdoc/require-file-overview': 1,
+        'import/no-absolute-path': 0,
+        'react-refresh/only-export-components': 'warn',
     },
     settings: {
         jsdoc: {

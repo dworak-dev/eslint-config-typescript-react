@@ -1,4 +1,4 @@
-# @dworac/eslint-config-typescript
+# @dworac/eslint-config-typescript-react
 
 ESLint is a popular tool that helps maintain consistent code quality across a project. The template you provided comes with a pre-configured ESLint setup that has support for TypeScript, the AirBnB preset, Prettier, and JSDoc. Let's take a closer look at each of these components and the configuration for the template.
 
@@ -7,7 +7,7 @@ ESLint is a popular tool that helps maintain consistent code quality across a pr
 To use the ESLint configuration, you must first install the required dependencies:
 
 ```bash
-yarn add -D @dworac/eslint-config-typescript
+yarn add -D @dworac/eslint-config-typescript-react
 ```
 
 Then, add the following to your `.eslintrc.js` file:
@@ -15,7 +15,7 @@ Then, add the following to your `.eslintrc.js` file:
 ```javascript
 {
   extends: [
-    '@dworac/eslint-config-typescript',
+    '@dworac/eslint-config-typescript-react',
   ],
 }
 ```
