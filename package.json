@@ -2,7 +2,7 @@
   "name": "@dworac/eslint-config-typescript-react",
   "author": "dworac <mail@dworac.com>",
   "license": "MIT",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "dworac's eslint typescript configuration with airbnb, prettier and jsdoc",
   "main": "index.js",
   "scripts": {
