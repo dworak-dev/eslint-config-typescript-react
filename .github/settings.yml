@@ -7,7 +7,7 @@ repository:
   name: eslint-config-typescript-react
 
   # A short description of the repository that will show up on GitHub
-  description: dworac's eslint typescript configuration with airbnb, prettier and jsdoc.
+  description: dworac's eslint typescript react configuration with airbnb, prettier and jsdoc.
 
   # Either 'true' or 'false' to make it a template.
   is_template: false
@@ -16,7 +16,7 @@ repository:
   homepage: https://github.com/dworac/eslint-config-typescript-react
 
   # A comma-separated list of topics to set on the repository
-  topics: node,typescript,template,jest,eslint,prettier,esbuild
+  topics: node,typescript,template,jest,eslint,prettier,esbuild,react
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
