@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dworac/eslint-config-typescript-react/compare/v1.0.0...v1.1.0) (2023-05-20)
+
+
+### Features
+
+* Update publish-npm.yml ([ad24014](https://github.com/dworac/eslint-config-typescript-react/commit/ad24014c4903a618269d67be1e26f106215f0387))
+
 ## 1.0.0 (2023-05-20)
 
 
