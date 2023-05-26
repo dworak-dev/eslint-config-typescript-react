@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/dworac/eslint-config-typescript-react/compare/v1.1.0...v1.1.1) (2023-05-26)
+
+
+### Bug Fixes
+
+* added react documentation and peerDependencies to README ([6945922](https://github.com/dworac/eslint-config-typescript-react/commit/69459220fed8f1e07757a80bfaf2cb46cc729de1))
+* renamed secrets on workflows ([c998526](https://github.com/dworac/eslint-config-typescript-react/commit/c998526abcb6922c9093c2ea467a035de0721f42))
+
 ## [1.1.0](https://github.com/dworac/eslint-config-typescript-react/compare/v1.0.0...v1.1.0) (2023-05-20)
 
 
